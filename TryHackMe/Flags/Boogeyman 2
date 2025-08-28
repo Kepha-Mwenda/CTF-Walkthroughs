@@ -1,0 +1,15 @@
+Q1. westaylor23@outlook.com
+Q2. maxine.beck@quicklogisticsorg.onmicrosoft.com
+Q3. Resume_WesleyTaylor.doc
+Q4. 52c4384a0b9e248b95804352ebec6c5b
+Q5. https://files.boogeymanisback.lol/aa2a9c53cbb80416d3b47d85538d9971/update.png
+Q6. wscript.exe
+Q7. C:\ProgramData\update.js
+Q8. 4260
+Q9. 1124
+Q10. https://files.boogeymanisback.lol/aa2a9c53cbb80416d3b47d85538d9971/update.exe
+Q11. 6216
+Q12. C:\Windows\Tasks\updater.exe
+Q13. 128.199.95.189:8080
+Q14. C:\Users\maxine.beck\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\WQHGZCFI\Resume_WesleyTaylor (002).doc
+Q15. schtasks /Create /F /SC DAILY /ST 09:00 /TN Updater /TR 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NonI -W hidden -c \"IEX ([Text.Encoding]::UNICODE.GetString([Convert]::FromBase64String((gp HKCU:\Software\Microsoft\Windows\CurrentVersion debug).debug)))\"'
